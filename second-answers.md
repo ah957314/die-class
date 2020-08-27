@@ -19,3 +19,10 @@ Automatic merge failed; fix conflicts and then commit the result.
 
 Answer 3: * master
 
+Answer 4: * header
+            master
+          
+Answer 5: README.md               first-answers.md
+          die.h                   second-answers.md
+          
+Answer 6: README.md               first-answers.md        second-answers.md
