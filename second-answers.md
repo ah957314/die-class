@@ -26,3 +26,5 @@ Answer 5: README.md               first-answers.md
           die.h                   second-answers.md
           
 Answer 6: README.md               first-answers.md        second-answers.md
+
+Answer 7: Header file is missing in the master branch
